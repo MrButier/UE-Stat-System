@@ -10,3 +10,7 @@ The stat system includes the features:
 - Save System
 - Multiple layer stat values
 - Easily modified to adjust to other purposes.
+
+Upcoming:
+- Character Type Selection Screen
+- Multiple Player Character Slots
